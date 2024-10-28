@@ -1,4 +1,4 @@
-# AutoML Project
+# RetTuning(AutoML Project)
 ## Description
 The AutoML Project is designed to streamline the process of building and deploying machine learning models for small-scale businesses and data scientists. It offers a complete solution that covers the entire machine learning workflow, from data preparation to model deployment.
 
